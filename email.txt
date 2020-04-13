@@ -1,0 +1,2 @@
+email.txt   New\ Text\ Document.txt  ok\ -\ Copy.txt  test1.txt  test3.txt
+index.html  no\ no.txt		     ok.txt	      test2.txt
