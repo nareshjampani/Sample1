@@ -1,0 +1,42 @@
+- Adding github email and user name to git
+git config --global user.email "naresh.jampani@mitsind.com"
+git config --global user.name "nareshjampani"
+
+- commands
+git init (to start git)
+git status
+git add "file name"
+git commit -m "some message"
+
+- Adding git repositories to git hub
+git remote add origin https://github.com/nareshjampani/Sample1.git
+git push -u origin master
+
+gil log
+git --help
+
+- create branch
+git branch "branch name"
+
+- checkout branch
+git checkout "branch name"
+
+- merge new branch in master branch
+git merge "branch name"
+
+- delete branch
+git branch -d "branch name" (deletes from local)
+git push origin --delete "branch name" (deleting from remote)
+
+-
+touch file name (to create a file)
+git log
+git rebase
+
+- merge
+git merge (branch name-source) - you should be in destination branch
+press i to insert
+enter any info
+press esc key
+:wq! and enter
+
